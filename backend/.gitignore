@@ -1,0 +1,5 @@
+# Ignore the real config file containing sensitive URLs
+backend/firebase-config.gs
+
+# Allow the template to be seen by the team
+!backend/firebase-config.gs.template
